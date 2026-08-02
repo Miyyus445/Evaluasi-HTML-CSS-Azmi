@@ -16,7 +16,9 @@
     sans-serif;
 }
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 /* Navbar */
 .navbarheader {
